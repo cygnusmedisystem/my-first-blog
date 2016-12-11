@@ -25,7 +25,7 @@ SECRET_KEY = '@2+1(06ih-h6gi8#e6#!ljqq!mhyv%=54nc4=rn=9222d3964&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['cygnusmedisystem.pythonanywhere.com']
 
 
 # Application definition
